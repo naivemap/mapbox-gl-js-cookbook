@@ -1,1 +1,0 @@
-import{_ as e,c as o,d as a,o as n}from"./app-DUPhFMc-.js";const l={};function r(s,t){return n(),o("div",null,t[0]||(t[0]=[a("p",null,"404 Not Found",-1)]))}const d=e(l,[["render",r]]),_=JSON.parse('{"path":"/404.html","title":"","lang":"zh-CN","frontmatter":{"layout":"NotFound"},"headers":[],"git":{},"filePathRelative":null}');export{d as comp,_ as data};

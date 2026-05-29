@@ -1,1 +1,0 @@
-import{_ as e,S as n}from"./base-map.vue_vue_type_style_index_0_lang-D9rQBs-7.js";import{f as t,g as s,o as a}from"./app-DUPhFMc-.js";const i=t({__name:"wind",setup(m){const o={style:n.DARK,center:[104.28817,28.48424],zoom:2.8,minZoom:1};return(p,r)=>(a(),s(e,{"map-options":o}))}});export{i as default};

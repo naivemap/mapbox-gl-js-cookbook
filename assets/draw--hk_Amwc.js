@@ -1,0 +1,1 @@
+import{h as e,p as t,s as n}from"./app-BAsgGhKa.js";import{t as r}from"./base-map-BiBGUm3D.js";import{t as i}from"./mapbox-gl-draw-BkvX7szU.js";var a=t({__name:`draw`,setup(t){let a={center:[107.744809,30.180706],zoom:6},o=async e=>{let t=new i;e.addControl(t,`top-left`)};return(t,i)=>(e(),n(r,{"map-clickable":!1,"map-options":a,onLoad:o}))}});export{a as default};

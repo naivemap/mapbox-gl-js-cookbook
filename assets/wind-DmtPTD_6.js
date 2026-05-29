@@ -1,0 +1,1 @@
+import{h as e,p as t,s as n}from"./app-BAsgGhKa.js";import{r,t as i}from"./base-map-BiBGUm3D.js";var a=t({__name:`wind`,setup(t){let a={style:r.DARK,center:[104.28817,28.48424],zoom:2.8,minZoom:1};return(t,r)=>(e(),n(i,{"map-options":a}))}});export{a as default};
