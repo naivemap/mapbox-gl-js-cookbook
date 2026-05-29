@@ -1,4 +1,4 @@
-export const TK = 'pk.eyJ1IjoiaHVhbmdsaWkiLCJhIjoiY204OHMxdTk3MHRtZDJrc2NkbWZ5Y3RjNCJ9.tFEJ-k9dnAQSSoKOuCz5Gw'
+export const TK = import.meta.env.VITE_MAPBOX_TOKEN || ''
 export const STYLE = {
   DEFAULT: 'mapbox://styles/huanglii/clm8knsuz012801r41pbwdcku',
   SATELLITE: 'mapbox://styles/huanglii/cl0j3k0wn000n14nznby52wod',

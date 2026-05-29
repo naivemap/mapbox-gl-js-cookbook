@@ -182,5 +182,9 @@ export default defineUserConfig({
     toggleSidebar: '切换侧边栏',
   }),
 
-  bundler: viteBundler(),
+  bundler: viteBundler({
+    viteOptions: {
+      envDir: path.resolve(__dirname, '../../'),
+    },
+  }),
 })

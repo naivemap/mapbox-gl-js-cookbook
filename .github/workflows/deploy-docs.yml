@@ -38,6 +38,7 @@ jobs:
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
+          VITE_MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
         run: |-
           pnpm run docs:build
           > docs/.vuepress/dist/.nojekyll
