@@ -47,7 +47,7 @@
     "@turf/line-arc": "^7.1.0",
     "@turf/meta": "^7.1.0",
     "city-selector-control": "^0.3.2",
-    "echarts": "^5.5.1",
+    "echarts": "^6.1.0",
     "mapbox-gl": "^3.10.0"
   }
 }
